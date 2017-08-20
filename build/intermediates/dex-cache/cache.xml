@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/vanshika/AndroidStudioProjects/SimpleDht/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/vanshika/AndroidStudioProjects/SimpleDht/app/build/intermediates/pre-dexed/debug/classes-2d8cad8a8b3ff639b6f93187574a0f9f99bd9faa.jar" />
+    </item>
+    <item
+        jar="/Users/vanshika/AndroidStudioProjects/SimpleDht/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/vanshika/AndroidStudioProjects/SimpleDht/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-d34e2d8c1c2073d6e6e244c4b0c3bf85fc5227d8.jar" />
+    </item>
+    <item
+        jar="/Users/vanshika/AndroidStudioProjects/SimpleDht/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/vanshika/AndroidStudioProjects/SimpleDht/app/build/intermediates/pre-dexed/debug/classes-547034b0fff991d438f2149f564d045dc3f953a6.jar" />
+    </item>
+    <item
+        jar="/Users/vanshika/AndroidStudioProjects/SimpleDht/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/vanshika/AndroidStudioProjects/SimpleDht/app/build/intermediates/pre-dexed/debug/classes-86b01b61de133935ae0d448dbf983b79e6bbf615.jar" />
+    </item>
+    <item
+        jar="/Users/vanshika/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/vanshika/AndroidStudioProjects/SimpleDht/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-8ea45388b5ba9db80ba26b6a559f1d0bfda748b6.jar" />
+    </item>
+    <item
+        jar="/Users/vanshika/AndroidStudioProjects/SimpleDht/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/vanshika/AndroidStudioProjects/SimpleDht/app/build/intermediates/pre-dexed/debug/classes-54975216f38c54d0a244538687245ee91ea16c37.jar" />
+    </item>
+
+</items>
